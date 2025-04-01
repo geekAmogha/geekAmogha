@@ -1,5 +1,5 @@
-# ✨ Hi, I'm [Your Name]! ✨  
-### **AI Engineer • Full-Stack Dev • Competitive Coder**  
+# ✨ Hi, I'm Amogha! ✨  
+### **AI & DS Engineer • Full-Stack Dev • Competitive Coder**  
 🚀 *Building the future, one line of code at a time.*  
 
 ---
@@ -9,7 +9,7 @@
 
 - 🎓 **2nd Year B.Tech AI & DS** @ *Vishwakarma Institute of Information Technology*  
 - 💻 **Full-Stack Dev** | **UI/UX Enthusiast** | **AI Explorer**  
-- 🏆 **Top 5% in class** | **National-Level Competitor**  
+- 🏆 **Top 5% in class** | **Startup Enthusiast**  
 - 🤖 **Passionate about:** AI, Scalable Systems, and Open Source  
 - 🎨 **Design Philosophy:** *"Simplicity is the ultimate sophistication."*  
 
@@ -45,28 +45,34 @@
 
 ## 🔥 **Featured Projects**  
 
-### 🎬 **Anime Streaming Platform**  
+### 🎬 **Aniverse - Anime Streaming Platform**  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
 *A full-stack platform with React, Tailwind, and MongoDB for anime lovers.*  
 
-### 🧠 **Alzheimer’s Detection (CNN + DL)**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
-*Early-stage Alzheimer’s detection using Deep Learning.*  
-
-### 📂 **File Compressor (Huffman Coding)**  
+### 📂 **File Compressor (Huffman Coding & PNG)**  
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
-*Lossless compression using Huffman’s algorithm.*  
+*Lossless compression using Huffman’s algorithm & PNG compression from scratch.*  
 
-### 🔗 **Social Network Analyzer**  
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)  
-*Analyzing connections in social graphs using BFS/DFS.*  
+### 💰 **NDA (Nrutyashree Dance Academy) - Student Management System**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-4ea94b?logo=mongodb&logoColor=white)  
+*Platform for student fee tracking, attendance, and syllabus management.*  
+
+### 🧠 **AI Code Debugger**  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+*AI-powered code debugger trained on IBM CodeNet dataset.*  
+
+### 🎮 **Scribbl.io Clone - Multiplayer Drawing Game**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?logo=socket.io&logoColor=white)  
+*Real-time multiplayer game with custom lobbies and player sessions.*  
 
 ---
 
 ## 🏆 **Achievements**  
 - 🥇 **Freaky C++ Coder** @ *Techtonic (Sinhgad Institutes)*  
-- 🚀 **Water Jug Problem Solver** (BFS in C++)  
-- 💡 **Hackathon Enthusiast** | *Building scalable solutions under pressure*  
+- 🚀 **Hackathon Competitor** | *Building scalable solutions under pressure*  
+- 💡 **Founded "Protons" - Healthy Protein Balls Startup** (D2C & B2B Model)  
+- 🏛️ **Associate Startup Executive** @ *Entrepreneurship Development Cell (EDC)*  
+- 💰 **Finance Head** @ *Artificial Intelligence Student Association (AiSA)*  
 
 ---
 
@@ -79,9 +85,9 @@
 ---
 
 ## 🌍 **Let’s Connect!**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourLinkedInProfile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourGitHubUsername)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YourTwitterHandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourLinkedInProfile)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourGitHubUsername)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YourTwitterHandle)  
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)  
 
 💬 *Open for collaborations, hackathons, and tech discussions!*  
