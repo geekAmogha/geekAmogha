@@ -11,7 +11,7 @@
 
 </div>
 
-<!-- <img src="./hero_banner.png" alt="wolters kluwer banner"/> -->
+<img src="./hero_banner.png" alt="hero banner"/>
 
 <img src="./tech_stack.png" alt="tech stack">
 
